@@ -38,7 +38,8 @@ Welcome to the Transportation Queue App! This application is built using React a
 5. The assigned slots will be automatically saved to the database.
 
 ## Screenshots
-![Transportation Queue App](/screenshots/app-screenshot.png)
+![Transportation Queue App](/screenshots/app-screenshot.png)[transportation-queue.webm](https://github.com/Sheyitofunmi/Transportation-Queue/assets/99263653/d836a495-c814-494d-84bd-d38782b61df1)
+
 _(Add relevant screenshots here)_
 
 ## Responsive Design
